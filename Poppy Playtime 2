@@ -23,7 +23,7 @@
     "ironsource": {
       "id": "18eb2815d",
       "mrec": "DefaultMrec",
-      "active": true,
+      "active": false,
       "banner": "DefaultBanner",
       "interstitial": "DefaultInterstitial"
     }
@@ -31,10 +31,10 @@
   "mods": [
  {
       "app": "minecraft",
-      "url": "https://files.catbox.moe/2w1nyr.mcaddon",
+      "url": "https://files.catbox.moe/exdbb2.mcaddon",
       "path": "Download/MowziesMobs.mcaddon",
       "image": "https://i.imgur.com/x0FMTcY.jpeg",
-      "title": "Mowzies Mobs",
+      "title": "MOD POPPY PLAYTIME 2",
       "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
     },
   {
