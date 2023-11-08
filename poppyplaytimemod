@@ -7,7 +7,7 @@
       "interstitial": "709ad6cb10242f12"
     },
     "admob": {
-      "mrec": "\tca-app-pub-3940256099942544/6300978111",
+      "mrec": "ca-app-pub-3940256099942544/6300978111",
       "active": false,
       "banner": "ca-app-pub-3940256099942544/6300978111",
       "native": "ca-app-pub-3940256099942544/2247696110",
@@ -21,7 +21,7 @@
       "interstitial": "f99e409b-f9ab-4a2e-aa9a-4d143e6809ae"
     },
     "ironsource": {
-      "id": "18eb2815d",
+      "id": "16936ec0d",
       "mrec": "DefaultMrec",
       "active": false,
       "banner": "DefaultBanner",
@@ -29,84 +29,12 @@
     }
   },
   "mods": [
- {
-      "app": "minecraft",
-      "url": "https://files.catbox.moe/pyaa5j.mcpack",
-      "path": "Download/Poppyplaytimemod.mcpack",
-      "image": "https://imgur.com/eEOM1E9",
-      "title": "MOD POPPY PLAYTIME",
-      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
-    },
-   {
-      "app": "minecraft",
-      "url": "https://files.catbox.moe/x9g7n5.mcpack",
-      "path": "Download/TexturePoppyplaytime.mcpack",
-      "image": "https://i.imgur.com/xa8AtTx.jpg",
-      "title": "Texture POPPY PLAYTIME ",
-      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
-    },
-   {
-       "app": "minecraft",
-      "url": "https://files.catbox.moe/pyaa5j.mcpack",
-      "path": "Download/Poppyplaytimemod.mcpack",
-      "image": "https://imgur.com/eEOM1E9",
-      "title": "MOD POPPY PLAYTIME",
-      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
-    },
-  {
-      "app": "minecraft",
-      "url": "https://files.catbox.moe/pyaa5j.mcpack",
-      "path": "Download/Poppyplaytimemod.mcpack",
-      "image": "https://imgur.com/eEOM1E9",
-      "title": "MOD POPPY PLAYTIME",
-      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
-    },
-  {
-      "app": "minecraft",
-      "url": "https://files.catbox.moe/pyaa5j.mcpack",
-      "path": "Download/Poppyplaytimemod.mcpack",
-      "image": "https://imgur.com/eEOM1E9",
-      "title": "MOD POPPY PLAYTIME",
-      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
-    },
-   {
-       "app": "minecraft",
-      "url": "https://files.catbox.moe/pyaa5j.mcpack",
-      "path": "Download/Poppyplaytimemod.mcpack",
-      "image": "https://imgur.com/eEOM1E9",
-      "title": "MOD POPPY PLAYTIME",
-      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
-    },
     {
-       "app": "minecraft",
-      "url": "https://files.catbox.moe/pyaa5j.mcpack",
-      "path": "Download/Poppyplaytimemod.mcpack",
-      "image": "https://imgur.com/eEOM1E9",
-      "title": "MOD POPPY PLAYTIME",
-      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
-    },
-   {
-     "app": "minecraft",
-      "url": "https://files.catbox.moe/pyaa5j.mcpack",
-      "path": "Download/Poppyplaytimemod.mcpack",
-      "image": "https://imgur.com/eEOM1E9",
-      "title": "MOD POPPY PLAYTIME",
-      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
-    },
-   {
       "app": "minecraft",
-      "url": "https://files.catbox.moe/x9g7n5.mcpack",
-      "path": "Download/TexturePoppyplaytime.mcpack",
-      "image": "https://i.imgur.com/xa8AtTx.jpg",
-      "title": "Texture POPPY PLAYTIME ",
-      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
-    },
-    {
-     "app": "minecraft",
-      "url": "https://files.catbox.moe/x9g7n5.mcpack",
-      "path": "Download/TexturePoppyplaytime.mcpack",
-      "image": "https://i.imgur.com/xa8AtTx.jpg",
-      "title": "Texture POPPY PLAYTIME ",
+      "url": "https://files.catbox.moe/x8n98v.mcaddon",
+      "path": "Download/ElementalWeapons.mcaddon",
+      "image": "https://modscraft.net/uploads/posts/2022-12/1671813145_elemental-weapons-mod-1.jpg",
+      "title": "Mod: Elemental Weapons",
       "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
     }
   ],
@@ -116,6 +44,6 @@
       "body": "1. Click on start button\n2. Choose a mod to download\n3. Click install Button and enjoy your game!",
       "title": "HOW TO"
     },
-    "onesignal_app_id": "241c5de7-aa7a-4f39-aa42-57dc823bd138"
+    "onesignal_app_id": ""
   }
 }
